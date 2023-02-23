@@ -1,0 +1,5 @@
+name: Artem
+surname: Volkov
+age:26
+pets: don't have
+future salary: 10000$
