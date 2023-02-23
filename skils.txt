@@ -1,0 +1,7 @@
+Skills of course: 
+
+		1. Basic theory(What is QA?, CLient server architecture,
+			HTTP Methods, HTTP codes, JSON, XML)
+		2. Tools: Postman, Jmeter, SQL, XCode, Android Studio,
+			Terminal(Linux)
+		3. Programming Languages: Python
