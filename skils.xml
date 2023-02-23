@@ -1,0 +1,27 @@
+<skils_of_course>
+	<basic_theory>
+		<BT>what is QA</BT>
+		<BT>client server architecture</BT>
+		<BT>HTTP Methods</BT>
+		<BT>HTTP Codes</BT>
+		<BT>What is JSON and XML</BT>
+	</basic_theory>
+	
+	<Tools>
+		<T>Postman</T>
+		<T>Jmeter</T>
+		<T>DevTools</T>
+		<T>XCode</T>
+		<T>Androis Studio</T>
+		<T>Charles</T>
+		<T>Fiddler</T>
+		<T>Terminal(Linux)</T>
+		<T>SQL</T>
+	</Tools>
+
+	<Programming_languages>
+		<PL>Python</PL>
+		<PL>JavaScript</PL>
+	</Programming_languages>
+	
+</skils_of_course>
