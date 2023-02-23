@@ -1,1 +1,11 @@
-
+<bug_report>
+  <B_R>id</B_R>
+  <B_R>title</B_R>
+  <B_R>steps to reproduce</B_R>
+  <B_R>expected result</B_R>
+  <B_R>actual result</B_R>
+  <B_R>attachment</B_R>
+  <B_R>severity</B_R>
+  <B_R>priority</B_R>
+  <B_R>status</B_R>
+</bug_report>
